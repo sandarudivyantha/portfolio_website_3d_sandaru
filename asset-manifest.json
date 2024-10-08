@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio_website_3d_sandaru/static/css/main.58a0c615.css",
+    "main.js": "/portfolio_website_3d_sandaru/static/js/main.1f298425.js",
+    "static/media/DashboardImg.jpg": "/portfolio_website_3d_sandaru/static/media/DashboardImg.9b6b03a8efa79356c691.jpg",
+    "static/media/Logo.png": "/portfolio_website_3d_sandaru/static/media/Logo.3400ea16cb366d8b72bd.png",
+    "index.html": "/portfolio_website_3d_sandaru/index.html",
+    "main.58a0c615.css.map": "/portfolio_website_3d_sandaru/static/css/main.58a0c615.css.map",
+    "main.1f298425.js.map": "/portfolio_website_3d_sandaru/static/js/main.1f298425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.1f298425.js"
+  ]
+}
